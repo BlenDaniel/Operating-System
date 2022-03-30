@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc liblibtcp.a CMakeFiles/libtcp.dir/tcp-connect.c.o CMakeFiles/libtcp.dir/tcp-listen.c.o CMakeFiles/libtcp.dir/tcp-accept.c.o CMakeFiles/libtcp.dir/tcp-read.c.o CMakeFiles/libtcp.dir/tcp-write.c.o CMakeFiles/libtcp.dir/tcp-read-write.c.o CMakeFiles/libtcp.dir/tcp-chat.c.o CMakeFiles/libtcp.dir/tcp-close.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib liblibtcp.a

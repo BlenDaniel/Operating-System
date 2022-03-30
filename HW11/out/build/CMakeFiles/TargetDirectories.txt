@@ -1,0 +1,3 @@
+/Users/blenassefa/Documents/CS/Third Semester/OS/HW11/out/build/CMakeFiles/rebuild_cache.dir
+/Users/blenassefa/Documents/CS/Third Semester/OS/HW11/out/build/CMakeFiles/edit_cache.dir
+/Users/blenassefa/Documents/CS/Third Semester/OS/HW11/out/build/CMakeFiles/catloop.dir

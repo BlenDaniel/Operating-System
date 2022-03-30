@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "select.h": "c",
+        "complex": "c",
+        "array": "c",
+        "iterator": "c",
+        "string": "c",
+        "string_view": "c",
+        "vector": "c",
+        "string.h": "c",
+        "fcntl.h": "c"
+    }
+}

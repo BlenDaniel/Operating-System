@@ -1,0 +1,8 @@
+/Users/blenassefa/Documents/CS/Third Semester/OS/HW9/out/build/CMakeFiles/rebuild_cache.dir
+/Users/blenassefa/Documents/CS/Third Semester/OS/HW9/out/build/CMakeFiles/edit_cache.dir
+/Users/blenassefa/Documents/CS/Third Semester/OS/HW9/out/build/lib/CMakeFiles/rebuild_cache.dir
+/Users/blenassefa/Documents/CS/Third Semester/OS/HW9/out/build/lib/CMakeFiles/edit_cache.dir
+/Users/blenassefa/Documents/CS/Third Semester/OS/HW9/out/build/lib/CMakeFiles/libtcp.dir
+/Users/blenassefa/Documents/CS/Third Semester/OS/HW9/out/build/gwgd/CMakeFiles/rebuild_cache.dir
+/Users/blenassefa/Documents/CS/Third Semester/OS/HW9/out/build/gwgd/CMakeFiles/edit_cache.dir
+/Users/blenassefa/Documents/CS/Third Semester/OS/HW9/out/build/gwgd/CMakeFiles/gwgd.dir

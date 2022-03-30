@@ -1,0 +1,12 @@
+/Users/blenassefa/Documents/CS/Third Semester/OS/Sockets/out/build/CMakeFiles/rebuild_cache.dir
+/Users/blenassefa/Documents/CS/Third Semester/OS/Sockets/out/build/CMakeFiles/edit_cache.dir
+/Users/blenassefa/Documents/CS/Third Semester/OS/Sockets/out/build/lib/CMakeFiles/rebuild_cache.dir
+/Users/blenassefa/Documents/CS/Third Semester/OS/Sockets/out/build/lib/CMakeFiles/edit_cache.dir
+/Users/blenassefa/Documents/CS/Third Semester/OS/Sockets/out/build/lib/CMakeFiles/libudp.dir
+/Users/blenassefa/Documents/CS/Third Semester/OS/Sockets/out/build/lib/CMakeFiles/libtcp.dir
+/Users/blenassefa/Documents/CS/Third Semester/OS/Sockets/out/build/chat/CMakeFiles/rebuild_cache.dir
+/Users/blenassefa/Documents/CS/Third Semester/OS/Sockets/out/build/chat/CMakeFiles/edit_cache.dir
+/Users/blenassefa/Documents/CS/Third Semester/OS/Sockets/out/build/chat/CMakeFiles/chat.dir
+/Users/blenassefa/Documents/CS/Third Semester/OS/Sockets/out/build/chatd/CMakeFiles/rebuild_cache.dir
+/Users/blenassefa/Documents/CS/Third Semester/OS/Sockets/out/build/chatd/CMakeFiles/edit_cache.dir
+/Users/blenassefa/Documents/CS/Third Semester/OS/Sockets/out/build/chatd/CMakeFiles/chatd.dir
